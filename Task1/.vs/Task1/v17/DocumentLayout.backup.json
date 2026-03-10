@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git\\Practice100326\\Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5BAA1E-3A67-4C46-BF6E-2CDF5A6BEEB0}|Task1\\Task1.csproj|d:\\git\\practice100326\\task1\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F5BAA1E-3A67-4C46-BF6E-2CDF5A6BEEB0}|Task1\\Task1.csproj|solutionrelative:task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\git\\Practice100326\\Task1\\Task1\\Form1.cs",
+              "RelativeDocumentMoniker": "Task1\\Form1.cs",
+              "ToolTip": "D:\\git\\Practice100326\\Task1\\Task1\\Form1.cs [Design]",
+              "RelativeToolTip": "Task1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:24:24.516Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
