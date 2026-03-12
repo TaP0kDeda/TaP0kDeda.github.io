@@ -55,6 +55,8 @@
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(100, 23);
             textBox1.TabIndex = 1;
+            textBox1.TextChanged += textBox1_TextChanged;
+            textBox1.KeyPress += textBox1_KeyPress;
             // 
             // textBox2
             // 
@@ -62,6 +64,8 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(100, 23);
             textBox2.TabIndex = 2;
+            textBox2.TextChanged += textBox2_TextChanged;
+            textBox2.KeyPress += textBox2_KeyPress;
             // 
             // label1
             // 
@@ -85,6 +89,7 @@
             // 
             // button1
             // 
+            button1.Enabled = false;
             button1.Location = new Point(253, 207);
             button1.Name = "button1";
             button1.Size = new Size(141, 44);
@@ -107,9 +112,8 @@
             label4.AutoSize = true;
             label4.Location = new Point(144, 320);
             label4.Name = "label4";
-            label4.Size = new Size(38, 15);
+            label4.Size = new Size(0, 15);
             label4.TabIndex = 7;
-            label4.Text = "label4";
             // 
             // Form1
             // 
@@ -125,7 +129,7 @@
             Controls.Add(textBox1);
             Controls.Add(pictureBox1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Вычисление ряда чисел до определённой точности";
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

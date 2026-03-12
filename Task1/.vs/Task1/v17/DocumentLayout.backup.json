@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{1F5BAA1E-3A67-4C46-BF6E-2CDF5A6BEEB0}|Task1\\Task1.csproj|solutionrelative:task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F5BAA1E-3A67-4C46-BF6E-2CDF5A6BEEB0}|Task1\\Task1.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task1\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F5BAA1E-3A67-4C46-BF6E-2CDF5A6BEEB0}|Task1\\Task1.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F5BAA1E-3A67-4C46-BF6E-2CDF5A6BEEB0}|Task1\\Task1.csproj|solutionrelative:task1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\Task1\\Form1.cs",
               "RelativeDocumentMoniker": "Task1\\Form1.cs",
-              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\Task1\\Form1.cs*",
-              "RelativeToolTip": "Task1\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\Task1\\Form1.cs",
+              "RelativeToolTip": "Task1\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wDQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T09:51:58.484Z",
               "EditorCaption": ""
@@ -39,8 +39,8 @@
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\Task1\\Form1.cs",
               "RelativeDocumentMoniker": "Task1\\Form1.cs",
-              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\Task1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "Task1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task1\\Task1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T09:24:24.516Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
