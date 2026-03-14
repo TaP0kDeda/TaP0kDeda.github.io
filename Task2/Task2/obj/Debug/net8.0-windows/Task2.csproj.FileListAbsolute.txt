@@ -1,0 +1,17 @@
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\bin\Debug\net8.0-windows\Task2.exe
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\bin\Debug\net8.0-windows\Task2.deps.json
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\bin\Debug\net8.0-windows\Task2.runtimeconfig.json
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\bin\Debug\net8.0-windows\Task2.dll
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\bin\Debug\net8.0-windows\Task2.pdb
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.Form1.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.GenerateResource.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.AssemblyInfoInputs.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.AssemblyInfo.cs
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.CoreCompileInputs.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.sourcelink.json
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.dll
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\refint\Task2.dll
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.pdb
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\Task2.genruntimeconfig.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task2\Task2\obj\Debug\net8.0-windows\ref\Task2.dll
