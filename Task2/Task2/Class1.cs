@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task2
 {
-    internal class Notation
+    public class Notation
     {
         public static string CountNotation(int i, int number) 
         {
