@@ -73,12 +73,12 @@
             // 
             // label3
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(214, 146);
+            label3.Location = new Point(115, 146);
             label3.Name = "label3";
-            label3.Size = new Size(38, 15);
+            label3.Size = new Size(250, 15);
             label3.TabIndex = 4;
             label3.Text = "label3";
+            label3.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // pictureBox1
             // 

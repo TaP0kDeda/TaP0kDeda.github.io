@@ -56,7 +56,9 @@ namespace WinFormsApp1
 
                 if (user != null)
                 {
-                    label3.Text = $"Здравствуйте, {username}!";
+                    label3.Visible= true;
+                    string a = $"Здравствуйте, {username}!";
+                    label3.Text = a;
                     pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
                     if (!string.IsNullOrEmpty(user.avatar_url))
                     {
@@ -86,6 +88,10 @@ namespace WinFormsApp1
         private async void Login_Load(object sender, EventArgs e)
         {
             await SupabaseClass.InitializeAsync();
+            if (SupabaseClass.Client == null)
+            {
+                label3.Text = "Инициализация не удалась";
+            }
         }
     }
 }

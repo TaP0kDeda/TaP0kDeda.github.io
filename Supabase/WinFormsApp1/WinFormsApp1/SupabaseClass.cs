@@ -22,14 +22,16 @@ namespace WinFormsApp1
         {
             if (Client == null)
             {
-                var url = "https://xmmpmhccabplsalfbgjz.Client.co";
+                var url = "https://xmmpmhccabplsalfbgjz.supabase.co";
                 var key = "sb_publishable_vJLXEsqgg4aeLPdjlL7GlQ_FAtbZQzC";
                 var options = new Supabase.SupabaseOptions
                 {
-                    AutoConnectRealtime = true
+                    AutoConnectRealtime = true,
+                    AutoRefreshToken = true
                 };
-                var Client = new Supabase.Client(url, key, options);
+                Client = new Supabase.Client(url, key, options);
                 await Client.InitializeAsync();
+                Console.WriteLine("Клиент усешно инициалиирован");
             }
         }
     }
