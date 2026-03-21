@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task3\\task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|solutionrelative:task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task3\\task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|solutionrelative:task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task3\\task3\\circle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|solutionrelative:task3\\circle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|solutionrelative:task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task3\\task3\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|solutionrelative:task3\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task3\\task3\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E823B25-9638-45DA-9E5B-190AD081584E}|Task3\\Task3.csproj|solutionrelative:task3\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,33 +34,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Circle.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Circle.Designer.cs",
-              "RelativeDocumentMoniker": "Task3\\Circle.Designer.cs",
-              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Circle.Designer.cs",
-              "RelativeToolTip": "Task3\\Circle.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Settings.cs",
+              "RelativeDocumentMoniker": "Task3\\Settings.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Settings.cs*",
+              "RelativeToolTip": "Task3\\Settings.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T07:23:56.562Z",
+              "WhenOpened": "2026-03-21T10:42:59.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Settings.cs",
+              "RelativeDocumentMoniker": "Task3\\Settings.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Task3\\Settings.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T10:28:15.972Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Circle.cs",
               "RelativeDocumentMoniker": "Task3\\Circle.cs",
               "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Circle.cs",
               "RelativeToolTip": "Task3\\Circle.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA9wCQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwGMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T07:20:36.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Circle.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task3\\Task3\\Circle.cs",
               "RelativeDocumentMoniker": "Task3\\Circle.cs",

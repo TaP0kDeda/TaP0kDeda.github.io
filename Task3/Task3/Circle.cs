@@ -7,6 +7,8 @@ namespace Task3
         int dx = 1;
         bool Mode = false;
         bool Rotation = false;
+        int ObjectForm;
+        int Speed = 1;
 
         enum STATUS { Bottom, Left, Right };
         STATUS flag;
@@ -20,8 +22,8 @@ namespace Task3
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            timer1.Interval = 1;
-            rc = new Rectangle(x, y, w, h); 
+            timer1.Interval = Speed;
+            rc = new Rectangle(x, y, w, h);
             this.Invalidate(rc, true);
             if (!Rotation)
             {
@@ -41,7 +43,7 @@ namespace Task3
                 }
                 if (x >= (this.ClientSize.Width - w) || y >= (this.ClientSize.Height - h))
                     flag = STATUS.Bottom;
-                else if (x >= this.ClientSize.Width/2 - w/2 & flag !=  STATUS.Bottom)
+                else if (x >= this.ClientSize.Width / 2 - w / 2 & flag != STATUS.Bottom)
                 {
                     flag = STATUS.Right;
                 }
@@ -65,16 +67,24 @@ namespace Task3
                     x -= dx;
                 }
             }
-            
 
-                rc = new Rectangle(x, y, w, h);
-            this.Invalidate(rc, true); 
+
+            rc = new Rectangle(x, y, w, h);
+            this.Invalidate(rc, true);
 
         }
 
         private void Circle_Paint(object sender, PaintEventArgs e)
         {
-            e.Graphics.FillEllipse(brush, rc);
+            if (ObjectForm == 1)
+            {
+                e.Graphics.FillEllipse(brush, rc);
+            }
+            else
+            {
+                e.Graphics.FillRectangle(brush, rc);
+            }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -92,6 +102,17 @@ namespace Task3
                 button1.Text = "—“ј–“";
                 timer1.Stop();
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Settings form2 = new Settings();  // создание экземпл€ра второй формы
+            form2.Owner = this;     // родительской дл€ формы 2 будет текуща€ форма
+            form2.ShowDialog();     // показать окно второй формы в модальном режиме        
+            brush.Color = form2.MyColor;
+            ObjectForm = form2.ObjectForm;
+            Speed = 11 - form2.Speed;
+
         }
     }
 }
