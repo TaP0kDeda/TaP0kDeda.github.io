@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task4\\task4\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|solutionrelative:task4\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task4\\task4\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|solutionrelative:task4\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task4\\task4\\arrayregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|solutionrelative:task4\\arrayregion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task4\\task4\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA131EFA-CEA3-4343-A23A-3F8B604EFD01}|Task4\\Task4.csproj|solutionrelative:task4\\surveyanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArrayRegion.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\ArrayRegion.cs",
+              "RelativeDocumentMoniker": "Task4\\ArrayRegion.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\ArrayRegion.cs",
+              "RelativeToolTip": "Task4\\ArrayRegion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:11:17.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\Region.cs",
+              "RelativeDocumentMoniker": "Task4\\Region.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\Region.cs",
+              "RelativeToolTip": "Task4\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:07:16.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SurveyAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\SurveyAnalysis.cs",
+              "RelativeDocumentMoniker": "Task4\\SurveyAnalysis.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\SurveyAnalysis.cs",
+              "RelativeToolTip": "Task4\\SurveyAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:40:52.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurveyAnalysis.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\SurveyAnalysis.cs",
+              "RelativeDocumentMoniker": "Task4\\SurveyAnalysis.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task4\\Task4\\SurveyAnalysis.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task4\\SurveyAnalysis.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:19:00.941Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
