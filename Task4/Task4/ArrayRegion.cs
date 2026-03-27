@@ -36,6 +36,37 @@ namespace Task4
             if (regions.Count == 0) return null;
             return regions.OrderByDescending(r => r.CrimeRatePercent).First();
         }
+        public void SaveToFile(string fileName)
+        {
+            using (StreamWriter writer = new StreamWriter(fileName))
+            {
+                writer.WriteLine(Year);
+                writer.WriteLine(regions.Count);
+                foreach (var r in regions)
+                {
+                    writer.WriteLine(r.Name);
+                    writer.WriteLine(r.Population);
+                    writer.WriteLine(r.Crimes);
+                }
+            }
+        }
+
+        public void LoadFromFile(string fileName)
+        {
+            regions.Clear();
+            using (StreamReader reader = new StreamReader(fileName))
+            {
+                Year = int.Parse(reader.ReadLine());
+                int count = int.Parse(reader.ReadLine());
+                for (int i = 0; i < count; i++)
+                {
+                    string name = reader.ReadLine();
+                    int pop = int.Parse(reader.ReadLine());
+                    int crimes = int.Parse(reader.ReadLine());
+                    regions.Add(new Region(name, pop, crimes));
+                }
+            }
+        }
 
     }
 }

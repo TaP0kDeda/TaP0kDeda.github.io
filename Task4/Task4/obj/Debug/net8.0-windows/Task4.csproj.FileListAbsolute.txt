@@ -3,7 +3,6 @@ C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\bin\Debug\net8.0-win
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\bin\Debug\net8.0-windows\Task4.runtimeconfig.json
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\bin\Debug\net8.0-windows\Task4.dll
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\bin\Debug\net8.0-windows\Task4.pdb
-C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.Form1.resources
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.csproj.GenerateResource.cache
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.AssemblyInfoInputs.cache
@@ -15,3 +14,8 @@ C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-win
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.pdb
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.genruntimeconfig.cache
 C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\ref\Task4.dll
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.SurveyAnalysis.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.csproj.AssemblyReference.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task4\Task4\obj\Debug\net8.0-windows\Task4.csproj.Up2Date
