@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task5\\task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|solutionrelative:task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E8EF76-FD5B-4BEC-A04D-260EA3E13F90}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task5\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5E8EF76-FD5B-4BEC-A04D-260EA3E13F90}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task5\\task5\\slovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|solutionrelative:task5\\slovar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|solutionrelative:task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task5\\task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F00BEB2-2DAA-433B-8C2E-42983CC091B6}|Task5\\Task5.csproj|solutionrelative:task5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T10:30:37.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Slovar.cs",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\Task5\\Slovar.cs",
               "RelativeDocumentMoniker": "Task5\\Slovar.cs",
               "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\Task5\\Slovar.cs",
               "RelativeToolTip": "Task5\\Slovar.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAYwIoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAUwJIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T08:17:32.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\Task5\\Form1.cs",
               "RelativeDocumentMoniker": "Task5\\Form1.cs",
               "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\Task5\\Form1.cs",
               "RelativeToolTip": "Task5\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAkwJ4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T07:21:50.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\Task5\\Form1.cs",
               "RelativeDocumentMoniker": "Task5\\Form1.cs",
               "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task5\\Task5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "Task5\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T07:03:22.708Z"
+              "WhenOpened": "2026-03-28T07:03:22.708Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }

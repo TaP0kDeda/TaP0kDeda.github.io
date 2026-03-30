@@ -12,6 +12,8 @@ namespace Task5
         private string filename;
         private int count;
 
+        public Slovar() { }
+
         public Slovar(string filename)
         {
             this.filename = filename;
