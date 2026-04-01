@@ -49,20 +49,16 @@ namespace Task6
             XmlDocument doc = new XmlDocument();
             doc.Load(FilePath);
 
-            // Читаем заголовок
             XmlNode headNode = doc.SelectSingleNode("//head");
             if (headNode != null)
                 data.Head = headNode.InnerText;
 
-            // Читаем описание
             XmlNode descNode = doc.SelectSingleNode("//description");
             if (descNode != null)
                 data.Description = descNode.InnerText;
 
-            // Создаем темы (у нас одна тема - "Природные достопримечательности")
             Theme mainTheme = new Theme { Name = "Природные достопримечательности России и Европы" };
 
-            // Читаем вопросы 1 уровня (легкий)
             Level level1 = new Level { Difficulty = 1 };
             XmlNodeList easyQuestions = doc.SelectNodes("//qeasy/q");
             foreach (XmlNode qNode in easyQuestions)
@@ -71,7 +67,6 @@ namespace Task6
             }
             mainTheme.Levels.Add(level1);
 
-            // Читаем вопросы 2 уровня (средний)
             Level level2 = new Level { Difficulty = 2 };
             XmlNodeList medQuestions = doc.SelectNodes("//qmed/q");
             foreach (XmlNode qNode in medQuestions)
@@ -80,7 +75,6 @@ namespace Task6
             }
             mainTheme.Levels.Add(level2);
 
-            // Читаем вопросы 3 уровня (сложный)
             Level level3 = new Level { Difficulty = 3 };
             XmlNodeList hardQuestions = doc.SelectNodes("//qhard/q");
             foreach (XmlNode qNode in hardQuestions)
@@ -94,7 +88,6 @@ namespace Task6
             return data;
         }
 
-        // Парсинг одного вопроса
         private static Question ParseQuestion(XmlNode qNode)
         {
             Question question = new Question();
@@ -118,15 +111,15 @@ namespace Task6
             return question;
         }
 
-        // Создание примера данных, если файл не найден
+        // Создание демо версии теста если данные не обнаружены (используется при запуске приложения)
         private static void CreateSampleData()
         {
             string sampleXml = @"<?xml version=""1.0"" encoding=""utf-8""?>
 <root>
-    <head>Тест: Природные достопримечательности России и Европы</head>
-    <description>Описание теста: Вам предлагаются вопросы с вариантами ответов, только один из вариантов правильный. Всего в тесте 3 уровня сложности, следующая сложность открывается после завершения прошлого на минимум 80 баллов из 100. На один вопрос даётся 30 секунд</description>
+    <head>(ДЕМО) Природные достопримечательности России и Европы</head>
+    <description>(ДЕМО) Вам предлагаются вопросы с вариантами ответов, только один из вариантов правильный. Всего в тесте 3 уровня сложности, следующая сложность открывается после завершения прошлого на минимум 80 баллов из 100. На один вопрос даётся 30 секунд</description>
     <qeasy>
-        <q text=""Какое озеро в России является самым глубоким в мире?"" src=""baikal.jpg"">
+        <q text=""Какое озеро в России является самым глубоким в мире?"" src=""C:\Users\geras\source\repos\TaP0kDeda.github.io\Task6\Task6\bin\Debug\net8.0-windows\bai.jpg"">
             <a right=""no"">Ладожское</a>
             <a right=""yes"">Байкал</a>
             <a right=""no"">Онежское</a>
@@ -156,7 +149,6 @@ namespace Task6
             File.WriteAllText(FilePath, sampleXml);
         }
 
-        // Сохранение данных (для администратора)
         public static void SaveData(TestData data)
         {
             XmlDocument doc = new XmlDocument();
@@ -166,17 +158,14 @@ namespace Task6
             XmlElement root = doc.CreateElement("root");
             doc.AppendChild(root);
 
-            // Сохраняем заголовок
             XmlElement head = doc.CreateElement("head");
             head.InnerText = data.Head;
             root.AppendChild(head);
 
-            // Сохраняем описание
             XmlElement description = doc.CreateElement("description");
             description.InnerText = data.Description;
             root.AppendChild(description);
 
-            // Сохраняем вопросы по уровням
             if (data.Themes.Count > 0)
             {
                 var theme = data.Themes[0];
@@ -215,13 +204,11 @@ namespace Task6
             return _filePath;
         }
 
-        // Открыть другой файл
         public static TestData OpenAnotherFile()
         {
             return LoadDataFromFile();
         }
 
-        // Получение вопросов по уровню
         public static List<Question> GetQuestions(TestData data, int difficulty)
         {
             if (data.Themes.Count == 0) return new List<Question>();
@@ -230,7 +217,6 @@ namespace Task6
             return level?.Questions ?? new List<Question>();
         }
 
-        // Добавление вопроса
         public static void AddQuestion(TestData data, int difficulty, Question question)
         {
             if (data.Themes.Count == 0)
@@ -248,7 +234,6 @@ namespace Task6
             SaveData(data);
         }
 
-        // Удаление вопроса
         public static void RemoveQuestion(TestData data, int difficulty, int index)
         {
             var questions = GetQuestions(data, difficulty);

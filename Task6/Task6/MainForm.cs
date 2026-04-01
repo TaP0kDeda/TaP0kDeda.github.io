@@ -44,7 +44,6 @@ namespace Task6
                 return;
             }
 
-            // Запускаем игровую форму
             var gameForm = new QuestionForm(questions, selectedLevel);
             gameForm.Show();
             this.Hide();
@@ -67,6 +66,26 @@ namespace Task6
                 MessageBox.Show("Файл успешно загружен!", "Успех",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
+        }
+
+        private void MainForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void AdminButton_Click(object sender, EventArgs e)
+        {
+            if (_data == null)
+            {
+                MessageBox.Show("Данные не загружены. Выберите файл с вопросами.",
+                    "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            var adminForm = new AdminForm();
+            adminForm.ShowDialog();
+            LoadData();
+            UpdateFilePathLabel();
         }
     }
 }

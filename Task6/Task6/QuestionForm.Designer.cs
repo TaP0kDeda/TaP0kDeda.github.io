@@ -53,7 +53,7 @@
             btnAnswer.Name = "btnAnswer";
             btnAnswer.Size = new Size(167, 53);
             btnAnswer.TabIndex = 1;
-            btnAnswer.Text = "button1";
+            btnAnswer.Text = "Подтвердить ответ";
             btnAnswer.UseVisualStyleBackColor = true;
             btnAnswer.Click += btnAnswer_Click;
             // 
@@ -81,10 +81,10 @@
             // 
             // lblQuestion
             // 
-            lblQuestion.AutoSize = true;
+            lblQuestion.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 204);
             lblQuestion.Location = new Point(38, 12);
             lblQuestion.Name = "lblQuestion";
-            lblQuestion.Size = new Size(38, 15);
+            lblQuestion.Size = new Size(467, 36);
             lblQuestion.TabIndex = 4;
             lblQuestion.Text = "label1";
             // 
@@ -109,6 +109,7 @@
             Controls.Add(pictureBox);
             Name = "QuestionForm";
             Text = "Тест";
+            FormClosed += QuestionForm_FormClosed;
             ((System.ComponentModel.ISupportInitialize)pictureBox).EndInit();
             ResumeLayout(false);
             PerformLayout();

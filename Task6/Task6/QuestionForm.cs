@@ -12,14 +12,14 @@ namespace Task6
 {
     public partial class QuestionForm : Form
     {
-        private List<Question> _allQuestions;      // все вопросы уровня
-        private List<Question> _sessionQuestions;  // вопросы для текущей сессии
-        private int _currentIndex = 0;              // индекс текущего вопроса
-        private int _score = 0;                     // набранные баллы
-        private int _questionCount = 5;              // количество вопросов за сеанс
+        private List<Question> _allQuestions;
+        private List<Question> _sessionQuestions; 
+        private int _currentIndex = 0;
+        private int _score = 0;
+        private int _questionCount = 5;
         private System.Windows.Forms.Timer _timer;
-        private int _timeLeft = 30;                  // время на вопрос (сек)
-        private int _level;                          // текущий уровень сложности
+        private int _timeLeft = 30;
+        private int _level;
         private Random _random = new Random();
 
         public QuestionForm(List<Question> questions, int level)
@@ -39,7 +39,6 @@ namespace Task6
                 .ToList();
         }
 
-        // Настройка таймера
         private void SetupTimer()
         {
             _timer = new System.Windows.Forms.Timer();
@@ -107,15 +106,14 @@ namespace Task6
 
             var q = _sessionQuestions[_currentIndex];
 
-            // Отображаем текст вопроса
             lblQuestion.Text = q.Text;
 
-            // Загружаем изображение
             string imagePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Images", q.ImagePath);
             if (File.Exists(imagePath))
             {
                 pictureBox.Image = Image.FromFile(imagePath);
                 pictureBox.SizeMode = PictureBoxSizeMode.Zoom;
+                lblNoImage.Text = "";
             }
             else
             {
@@ -126,7 +124,6 @@ namespace Task6
                     lblNoImage.Text = "";
             }
 
-            // Заполняем варианты ответов
             cmbAnswers.Items.Clear();
             foreach (var answer in q.Answers)
             {
@@ -134,7 +131,6 @@ namespace Task6
             }
             cmbAnswers.SelectedIndex = -1;
 
-            // Запускаем таймер
             _timer.Start();
         }
 
@@ -164,7 +160,6 @@ namespace Task6
                            $"Набрано баллов: {_score} из {maxScore}\n" +
                            $"Результат: {percentage}%\n\n";
 
-            // Проверяем, можно ли разблокировать следующий уровень
             if (percentage >= 80 && _level < 3)
             {
                 message += $"Поздравляем! Вы набрали {percentage}% и разблокировали уровень {_level + 1}!";
@@ -190,6 +185,10 @@ namespace Task6
             MessageBox.Show(message, "Результаты тестирования",
                 MessageBoxButtons.OK, MessageBoxIcon.Information);
             this.Close();
+        }
+
+        private void QuestionForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
         }
     }
 }

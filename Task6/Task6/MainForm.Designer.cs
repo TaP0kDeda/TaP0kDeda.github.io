@@ -65,6 +65,7 @@
             AdminButton.TabIndex = 2;
             AdminButton.Text = "Панель админа";
             AdminButton.UseVisualStyleBackColor = true;
+            AdminButton.Click += AdminButton_Click;
             // 
             // ChooseLabel
             // 
@@ -72,7 +73,6 @@
             ChooseLabel.Name = "ChooseLabel";
             ChooseLabel.Size = new Size(246, 137);
             ChooseLabel.TabIndex = 3;
-            ChooseLabel.Text = "Выбранная тема:";
             // 
             // numericLevel
             // 
@@ -106,6 +106,7 @@
             Controls.Add(StartButton);
             Name = "MainForm";
             Text = "Главное меню";
+            FormClosed += MainForm_FormClosed;
             ((System.ComponentModel.ISupportInitialize)numericLevel).EndInit();
             ResumeLayout(false);
             PerformLayout();
