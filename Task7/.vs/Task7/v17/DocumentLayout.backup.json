@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{939F9DF8-B9FB-43C1-A735-8CC0983BC119}|Task7\\Task7.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task7\\task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{939F9DF8-B9FB-43C1-A735-8CC0983BC119}|Task7\\Task7.csproj|solutionrelative:task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{939F9DF8-B9FB-43C1-A735-8CC0983BC119}|Task7\\Task7.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task7\\task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{939F9DF8-B9FB-43C1-A735-8CC0983BC119}|Task7\\Task7.csproj|solutionrelative:task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\pfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\pfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\crossfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\crossfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\rectanglefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\rectanglefigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\stackmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\stackmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\figuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\figuremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\task7\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\stroke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task7\\task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{132B72F4-D5A8-4CD1-9F0B-4C383A3DFD3B}|Task7\\Task7.csproj|solutionrelative:task7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,26 +59,130 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs",
-              "RelativeDocumentMoniker": "Task7\\Form1.cs",
-              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs*",
-              "RelativeToolTip": "Task7\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Title": "PFigure.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\PFigure.cs",
+              "RelativeDocumentMoniker": "Task7\\PFigure.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\PFigure.cs",
+              "RelativeToolTip": "Task7\\PFigure.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwDcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T08:33:58.104Z",
+              "WhenOpened": "2026-04-03T12:35:29.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrossFigure.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\CrossFigure.cs",
+              "RelativeDocumentMoniker": "Task7\\CrossFigure.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\CrossFigure.cs",
+              "RelativeToolTip": "Task7\\CrossFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:35:03.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RectangleFigure.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\RectangleFigure.cs",
+              "RelativeDocumentMoniker": "Task7\\RectangleFigure.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\RectangleFigure.cs",
+              "RelativeToolTip": "Task7\\RectangleFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:34:29.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Square.cs",
+              "RelativeDocumentMoniker": "Task7\\Square.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Square.cs",
+              "RelativeToolTip": "Task7\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:34:06.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FigureManager.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\FigureManager.cs",
+              "RelativeDocumentMoniker": "Task7\\FigureManager.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\FigureManager.cs",
+              "RelativeToolTip": "Task7\\FigureManager.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAA9wLQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:33:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackMemory.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\StackMemory.cs",
+              "RelativeDocumentMoniker": "Task7\\StackMemory.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\StackMemory.cs",
+              "RelativeToolTip": "Task7\\StackMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:32:52.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stroke.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Stroke.cs",
+              "RelativeDocumentMoniker": "Task7\\Stroke.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Stroke.cs",
+              "RelativeToolTip": "Task7\\Stroke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:32:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Figure.cs",
+              "RelativeDocumentMoniker": "Task7\\Figure.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Figure.cs",
+              "RelativeToolTip": "Task7\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:31:58.692Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs",
+              "RelativeDocumentMoniker": "Task7\\Form1.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs",
+              "RelativeToolTip": "Task7\\Form1.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAuwKsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:47:31.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs",
               "RelativeDocumentMoniker": "Task7\\Form1.cs",
-              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "Task7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task7\\Task7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task7\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T08:29:41.029Z",
+              "WhenOpened": "2026-04-03T12:27:03.868Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
