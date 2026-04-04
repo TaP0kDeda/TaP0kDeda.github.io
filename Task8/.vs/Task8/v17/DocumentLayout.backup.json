@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\gameresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\resultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|c:\\users\\geras\\source\\repos\\tap0kdeda.github.io\\task8\\task8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96F5698E-14CB-4262-A906-2D56B563A241}|Task8\\Task8.csproj|solutionrelative:task8\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task8\\MainForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\MainForm.cs",
+              "RelativeToolTip": "Task8\\MainForm.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:48:12.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultForm.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\ResultForm.cs",
+              "RelativeDocumentMoniker": "Task8\\ResultForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\ResultForm.cs",
+              "RelativeToolTip": "Task8\\ResultForm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:24:43.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResultForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\ResultForm.cs",
+              "RelativeDocumentMoniker": "Task8\\ResultForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\ResultForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task8\\ResultForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:23:25.046Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Task8\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\SettingsForm.cs",
+              "RelativeToolTip": "Task8\\SettingsForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:18:38.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "Task8\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\SettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task8\\SettingsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:06:01.08Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Task8\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\LoginForm.cs",
+              "RelativeToolTip": "Task8\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:01:07.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Task8\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task8\\LoginForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:58:58.202Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameResult.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\GameResult.cs",
+              "RelativeDocumentMoniker": "Task8\\GameResult.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\GameResult.cs",
+              "RelativeToolTip": "Task8\\GameResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:58:03.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\GameSettings.cs",
+              "RelativeDocumentMoniker": "Task8\\GameSettings.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\GameSettings.cs",
+              "RelativeToolTip": "Task8\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:57:30.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\MainForm.cs",
+              "RelativeDocumentMoniker": "Task8\\MainForm.cs",
+              "ToolTip": "C:\\Users\\geras\\source\\repos\\TaP0kDeda.github.io\\Task8\\Task8\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Task8\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:36:19.982Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

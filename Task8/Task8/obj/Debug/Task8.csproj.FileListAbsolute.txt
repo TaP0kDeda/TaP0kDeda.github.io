@@ -1,0 +1,14 @@
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\bin\Debug\Task8.exe.config
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\bin\Debug\Task8.exe
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\bin\Debug\Task8.pdb
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.csproj.AssemblyReference.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.LoginForm.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.MainForm.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.Properties.Resources.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.ResultForm.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.SettingsForm.resources
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.csproj.GenerateResource.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.csproj.CoreCompileInputs.cache
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.exe
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.pdb
+C:\Users\geras\source\repos\TaP0kDeda.github.io\Task8\Task8\obj\Debug\Task8.exe.config
